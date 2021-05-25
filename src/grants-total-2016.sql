@@ -1,0 +1,1 @@
+Select sum(amount) FROM grants where fiscal_year = '01/01/2016';

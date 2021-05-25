@@ -1,0 +1,1 @@
+Select sum(amount) FROM grants;

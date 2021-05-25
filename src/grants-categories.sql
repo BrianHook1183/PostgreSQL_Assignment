@@ -1,0 +1,1 @@
+select category from grants group by category order by category;
